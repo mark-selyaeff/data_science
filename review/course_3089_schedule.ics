@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stepik Student Calendar//stepik.org//ru
+X-WR-CALDESC:Расписание дедлайнов по курсам н
+ а Stepik
+X-WR-CALNAME:Расписание Теория вероятностей
+BEGIN:VEVENT
+SUMMARY:Элементарная теория вероятностей: с
+ лучайные события (пройдено шагов: 0/32)
+DTSTART:20170926T060000Z
+DTEND:20171010T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит крайний срок сдачи зада
+ ний по модулю Элементарная теория вероя
+ тностей: случайные события
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Элементарная теория вероятностей: с
+ лучайные события (пройдено шагов: 0/32)
+DTSTART:20171010T070000Z
+DTEND:20171017T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит совсем крайний срок сда
+ чи заданий по модулю Элементарная теори
+ я вероятностей: случайные события
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Элементарная теория вероятностей: с
+ лучайные величины (пройдено шагов: 0/32)
+DTSTART:20171003T060000Z
+DTEND:20171017T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит крайний срок сдачи зада
+ ний по модулю Элементарная теория вероя
+ тностей: случайные величины
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Элементарная теория вероятностей: с
+ лучайные величины (пройдено шагов: 0/32)
+DTSTART:20171017T070000Z
+DTEND:20171024T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит совсем крайний срок сда
+ чи заданий по модулю Элементарная теори
+ я вероятностей: случайные величины
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общая теория вероятностей  (пройден
+ о шагов: 0/30)
+DTSTART:20171017T060000Z
+DTEND:20171031T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит крайний срок сдачи зада
+ ний по модулю Общая теория вероятностей 
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общая теория вероятностей  (пройден
+ о шагов: 0/30)
+DTSTART:20171031T070000Z
+DTEND:20171107T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит совсем крайний срок сда
+ чи заданий по модулю Общая теория вероят
+ ностей 
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретные и непрерывные случайные 
+ величины (пройдено шагов: 0/30)
+DTSTART:20171024T060000Z
+DTEND:20171107T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит крайний срок сдачи зада
+ ний по модулю Дискретные и непрерывные с
+ лучайные величины
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретные и непрерывные случайные 
+ величины (пройдено шагов: 0/30)
+DTSTART:20171107T070000Z
+DTEND:20171114T070000Z
+LOCATION:Курс: Теория вероятностей
+URL:https://stepik.org/course/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%
+ D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089/syl
+ labus?module=4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:В курсе Теория вероятностей через
+  24 часа наступит совсем крайний срок сда
+ чи заданий по модулю Дискретные и непрер
+ ывные случайные величины
+TRIGGER;RELATED=END:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
